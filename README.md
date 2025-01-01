@@ -1,1 +1,31 @@
 # multithreaded-chat-application
+
+**COMPANY**: CODETECH IT SOLUTION
+
+**NAME**: MAYURI JADHAV
+
+**INTERN ID**: CT08GMN
+
+**DOMAIN**: JAVA PROGRAMMMING
+
+**BATCH DURATION**: DECEMBER 25TH,2024 TO JANUARY 25TH,2025
+
+**MENTOR NAME**: NEELA SANTOSH KUMAR
+
+#DESCRIPTION:
+BULIDING A CLIENT SERVER CHAT APPLICATION USING JAVA SOCKET AND MULTITHREDING TO HANDLE MULTIPLE USER . A FUNCTIONAL CHAT AAPLICATION WITH A SERVER AND MULTIPLE CLIENTS COMMUNICATING IN REAL TIME.
+
+#OUTPUT: 
+// SERVER SIDE
+Server started. Waiting for clients to connect...
+New client connected: /127.0.0.1
+John: Hello, everyone!
+Jane: Hi John, how are you?
+New client connected: /127.0.0.1
+
+//CLIENT SIDE
+Enter your name:
+John
+Welcome, John! You can start chatting now.
+Jane: Hi John, how are you?
+
